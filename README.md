@@ -1,2 +1,2 @@
 # General-Physics-Labs
-Laboratory works on electricity and magnetism for 3 semester
+Some examples of laboratory works on electricity and magnetism for 3 semester
