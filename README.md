@@ -1,2 +1,2 @@
 # General-Physics-Labs
-Labs on general physics courses for 3 semester
+Laboratory work on electricity and magnetism for 3 semester
